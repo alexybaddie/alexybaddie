@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="1000" height="169" />
+  <img src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="3000" height="1690" />
 </div>
 
 <!--💡 I believe that creativity is limitless, and while tools and techniques are important, the true magic comes from how you express yourself through them.
